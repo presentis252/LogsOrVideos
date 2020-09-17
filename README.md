@@ -5,5 +5,5 @@
 - [instagram: coding_king.ys](https://www.instagram.com/coding_king.ys/)
 
 ## 개발 시연 영상
-- [Uday 2.0 시연 영상](https://www.instagram.com/p/CFPw__xj2db/?utm_source=ig_web_copy_link)
+- [Uday 2.0 시연 영상](https://www.instagram.com/p/CFP0vQUsJ5_/?igshid=1xfl0xs0zawbf)
 - [Iffy 시연 영상](https://projectintheclass.github.io/Iffy-iOSApplication/)
